@@ -3,14 +3,14 @@
   <title>XiaoCheng_Yaa</title>
   
   <subtitle>热爱生活</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xiaocheng365.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://xiaocheng365.github.io/"/>
   <updated>2024-03-31T05:11:12.934Z</updated>
-  <id>http://example.com/</id>
+  <id>https://xiaocheng365.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>xiaocheng356</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一个月的变化</title>
-    <link href="http://example.com/2024/03/31/%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96/"/>
-    <id>http://example.com/2024/03/31/%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96/</id>
+    <link href="https://xiaocheng365.github.io/2024/03/31/%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96/"/>
+    <id>https://xiaocheng365.github.io/2024/03/31/%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%8F%98%E5%8C%96/</id>
     <published>2024-03-31T04:42:46.000Z</published>
     <updated>2024-03-31T05:11:12.934Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>盲目</title>
-    <link href="http://example.com/2024/03/24/%E7%9B%B2%E7%9B%AE/"/>
-    <id>http://example.com/2024/03/24/%E7%9B%B2%E7%9B%AE/</id>
+    <link href="https://xiaocheng365.github.io/2024/03/24/%E7%9B%B2%E7%9B%AE/"/>
+    <id>https://xiaocheng365.github.io/2024/03/24/%E7%9B%B2%E7%9B%AE/</id>
     <published>2024-03-24T07:38:41.000Z</published>
     <updated>2024-03-24T08:40:19.396Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>有时候我坚持可笑</title>
-    <link href="http://example.com/2024/03/17/%E6%9C%89%E6%97%B6%E5%80%99%E6%88%91%E5%9D%9A%E6%8C%81%E5%8F%AF%E7%AC%91/"/>
-    <id>http://example.com/2024/03/17/%E6%9C%89%E6%97%B6%E5%80%99%E6%88%91%E5%9D%9A%E6%8C%81%E5%8F%AF%E7%AC%91/</id>
+    <link href="https://xiaocheng365.github.io/2024/03/17/%E6%9C%89%E6%97%B6%E5%80%99%E6%88%91%E5%9D%9A%E6%8C%81%E5%8F%AF%E7%AC%91/"/>
+    <id>https://xiaocheng365.github.io/2024/03/17/%E6%9C%89%E6%97%B6%E5%80%99%E6%88%91%E5%9D%9A%E6%8C%81%E5%8F%AF%E7%AC%91/</id>
     <published>2024-03-16T16:50:25.000Z</published>
     <updated>2024-03-16T17:03:23.487Z</updated>
     
@@ -84,8 +84,8 @@
   
   <entry>
     <title>热爱</title>
-    <link href="http://example.com/2024/03/12/%E7%83%AD%E7%88%B1/"/>
-    <id>http://example.com/2024/03/12/%E7%83%AD%E7%88%B1/</id>
+    <link href="https://xiaocheng365.github.io/2024/03/12/%E7%83%AD%E7%88%B1/"/>
+    <id>https://xiaocheng365.github.io/2024/03/12/%E7%83%AD%E7%88%B1/</id>
     <published>2024-03-12T15:14:11.000Z</published>
     <updated>2024-03-12T15:30:53.074Z</updated>
     
